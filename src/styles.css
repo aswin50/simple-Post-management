@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.post-card {
+  margin-bottom: 25px; 
+}
+.post-card:hover{
+  box-shadow: 0px 4px 25px rgba(44, 31, 31, 0.1); 
+  transition: box-shadow 0.3s ease;
+}
+.Delete_button{
+  margin-top: 5px;
+}
